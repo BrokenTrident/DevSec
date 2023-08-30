@@ -1,3 +1,3 @@
 # DevSec
-Training for GitHub
+Training for GitHub |
 Simple GitHub Repo
