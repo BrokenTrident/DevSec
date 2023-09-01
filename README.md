@@ -2,6 +2,7 @@
 Training for GitHub | Terraform
 
 The main.tf file contains code to create:
+
 #Create a vpc
 #Create an internet gateway
 #Create Custom Route Table
