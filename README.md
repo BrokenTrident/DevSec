@@ -1,3 +1,3 @@
 # DevSec
-Training for GitHub |
-Simple GitHub Repo
+Training for GitHub | Terraform
+
