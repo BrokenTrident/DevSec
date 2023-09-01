@@ -13,5 +13,5 @@ The main.tf file contains code to create:
 #Provisioned an EC2 instance with ubuntu and apache
 
 
-The install_apache file contains code to start 
+The install_apache file contains code to install start, and enable apache server with bash script 
 
