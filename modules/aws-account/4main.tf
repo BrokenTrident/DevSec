@@ -1,4 +1,5 @@
   source        = "./modules/aws-account"
+# links to info related to the root account
   account_name  = "my-account-name"
   email_address = "my-team@my-company.com"
   owner_users   = ["some-iam-username"] 
